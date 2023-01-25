@@ -1,7 +1,7 @@
 # tREEs_Spammer
 
 <p align="center" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img src="https://i.ibb.co/gJ8hFFD/ss.png">
 </p>
 
 tREEs Spammer is a Python3 program that allows you to rapidly spam messages. It uses Pynput for Keyboard emulation, so it can also be used on browsers, but be sure to be careful of rate limits.
