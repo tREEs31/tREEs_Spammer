@@ -1,0 +1,29 @@
+{
+    "INFORMATION" : "For Help Visit: https://github.com/username/repository_name/README.md",
+    
+    "WINDOW ATTRIBUTES" : "Customize the GUI Elements",
+    "window_title" : "tREEs Spammer",
+    "window_icon_path" : "images/GUI_icon.ico",
+    "window_size" : ["height", "400px", "width", "300px"],
+    "window_bg_image_path" : "images/GUI_bg.png",
+    
+    "WINDOW COLORS" : "Customize the GUI Colors",
+    "textbox_bgcolor_hex" : "#000000",
+    "textbox_fgcolor_hex" : "#FFFFFF",
+    "stop_button_bgcolor" : "#000000",
+    "stop_button_fgcolor" : "#FFFFFF",
+    "stopbtn_highlight_hex" : "#cf0606",
+    "start_button_bgcolor" : "#000000",
+    "start_button_fgcolor" : "#FFFFFF",
+    "startbtn_highlight_hex" : "#19bd00",
+    "speed_slider_bgcolor" : "#000000",
+    "speed_slider_fgcolor" : "#FFFFFF",
+    "slider_highlight_hex" : "#031B52",
+    "count_slider_bgcolor" : "#000000",
+    "count_slider_fgcolor" : "#FFFFFF",
+    "count_highlight_hex" : "#C8DE00",
+
+    "SPAMBOT_ATTRIBUTES" : "Customise SpamBot Functionality",
+    "speed_options" : ["1sec", "2sec", "3sec", "4sec", "5sec"],
+    "count_options" : ["∞", "10", "25", "50", "75", "100", "150"]
+}
