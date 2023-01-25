@@ -11,7 +11,7 @@ tREEs Spammer is a Python3 program that allows you to rapidly spam messages. It 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tREEs Spammer to your User Space.
 
 ```bash
-git clone https://github.com/tREEs31/tREEs_Spammer
+git clone https://github.com/tREEs31/tREEs_Spammer.git
 cd tREEs_Spammer
 python3 -m pip install --user -r requirements.txt 
 ```
